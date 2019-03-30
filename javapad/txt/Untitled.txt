@@ -1,0 +1,13 @@
+Jenny,
+
+  Please, I hope I got the Extra Credit points for my Toolbar.  During the demo it worked, but I think when you ran it, the icons didn't so up.
+
+There are two strings that have a 'source' or the location of images in my classes.  The first is in the ToolsMenu.  Just search for the word 'source.'  The other is in the MyToolbar.
+
+The source string has something like this.
+
+a:/prj5/wordprocessor/images/
+
+The current code I am working on right now, the source directory for any of the images that show up are the follow.
+
+But, enough about that!  Let's get down to the other methods

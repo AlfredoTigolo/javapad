@@ -5,7 +5,7 @@ Notepad like app written in java
 *java javapad/MainPrj6*
 
 # To Compile Type
-*javac javapad/MainPrj6*
+*javac javapad/MainPrj6.java*
 
 # Need to show steps to have it work under a Linux environment
 
